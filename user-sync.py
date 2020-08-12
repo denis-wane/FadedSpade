@@ -1,6 +1,6 @@
 '''
 Created on April 15, 2020
-@author: denis.r.wane
+@author: denis.r.wane  
 '''
 import sys
 import requests
